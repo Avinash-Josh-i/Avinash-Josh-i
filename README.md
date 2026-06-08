@@ -1,9 +1,6 @@
 # Hi, I'm Avinash Joshi 👋
 
-I am a student at **Thapathali Engineering Campus** with a strong interest in **web development**.  
-I am an active learner who enjoys exploring new technologies, improving my skills, and building practical projects.
-
-I am passionate about programming, design, and creating clean, useful digital solutions.
+I am a student at **Thapathali Engineering Campus** with a strong focus on **web development**. I am an active and passionate learner who enjoys exploring new technologies, improving my technical skills, and building practical digital solutions through clean design and purposeful development.
 
 ---
 
