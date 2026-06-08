@@ -10,15 +10,14 @@ I am passionate about programming, design, and creating clean, useful digital so
 ## Languages, Tools & Frameworks
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QBasic-004080?style=for-the-badge&logo=basic&logoColor=white" alt="QBasic" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
 </p>
